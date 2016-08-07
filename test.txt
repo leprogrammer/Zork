@@ -1,0 +1,22 @@
+1 | Let's play! | It is Friday, April 1st, the day of your second CSE214 midterm. You have just began the exam and you feel a grumble in your stomach. What do you do?
+1-1 | Raise your hand. | All the TA's are busy and you can't seem to get their attention. What do you do?
+1-2 | Continue your exam. You don't have time. | You continue the exam, but half way through, an asteroid hits Frey Hall and you die. YOU LOSE.
+1-3 | Put your head down for a little bit. Maybe it'll get better. | You put your head down for a little bit. You end up waking up and realizing that you were still in bed and that it was all a dream. What do you do?
+1-1-1 | Hold it in and continue your exam. | You can't hold it in any longer and the sickness makes you want to throw up. You end up throwing up on the exam. YOU LOSE.
+1-1-2 | Get up and go to the bathroom. YOU REALLY HAVE TO GO! | You storm out the classroom of Frey 100 and search for the bathroom. Once you get there, you see one of the TA's inside. He asks you what you're doing here because you aren't allowed to leave during the exam. What do you say?
+1-1-3 | Scream out "PROFESSOR ESMAILI!" | Professor Esmaili walks over to you and writes a -20 on your exam for disturbing the rest of the class. What do you do?
+1-1-2-1 | Lie to the TA. | You say, "Professor Esmaili let me out! I need to take a dump." TA Anthony doesn't believe you and replies "I don't believe you, and you're getting a zero on the exam for breaking the rules." He heads out of the bathroom to go back to the examination room. What do you do?
+1-1-2-2 | Tell him the truth. | You say, "I really had to go to the bathroom, but the TA wouldn't notice me when I had my hand up!" TA Noah replies "Alright, hurry up and go. You aren't getting off without a penalty though." You end up doing well on the exam but get a -10 for leaving without consent. Telling the truth is always a good thing! YOU WIN.
+1-1-2-3 | Knock him out. He can't know you're here. | You go for the punch but TA Charles is quicker and you end up getting punched in the face.
+1-1-2-1-1 | Chase after him. | You chase after him but end up pooping yourself and it falls out of your pants and you slip and bang your head on the doorknob and die. YOU LOSE.
+1-1-2-1-2 | Screw it. I'm about to blow. | You go into the stall and let yourself loose for twenty minutes. By the time you finish up, the exam is almost over and you've received a zero. However, you are still healthy, and that's what matters, right? YOU WIN.
+1-1-2-3-1 | Try and get up. | You can't get up! You realize you've pooped yourself in front of the TA and are immediately flushed with embarassment.
+1-1-2-3-1-1 | Apologize. | THAT'S TOO BAD. YOU BROKE THE RULES. YOU LOSE.
+1-1-3-1 | Continue your exam. | You end up failing anyway, you forgot to study the night before. YOU LOSE.
+1-1-3-2 | Rip up your exam and leave. | You get a 0 on the exam and have to re-take 214. 
+1-3-1 | E-mail the professor saying you over slept. | You e-mail Professor Esmaili saying you overslept. He replies within a minute saying that it's still 7:15am, what do you mean overslept? You then realize your roommate has played a prank on you and set your clock forward two hours. APRIL FOOLS! YOU WIN.
+1-3-2 | GET TO FREY NOW! YOU'RE LATE! | You run to the examination room and see that there is no one there. You check your watch and it says 10:00am. What do you do now?
+1-3-2-1 | Leave. I missed the exam. | You leave to go home. On the way back to your dorm, you see one of your friends walking towards class. Embarassed, what do you do?
+1-3-2-2 | Cry. | You cry. However, it isn't the end of the world. YOU WIN.
+1-3-2-1-1 | Keep your head down and keep walking. | You end up missing the exam not knowing your roommate April Fools pranked you. YOU LOSE.
+1-3-2-1-2 | Ask him how the exam was. | He replies saying the exam didn't happen yet. You soon realize that you've been pranked and go to take the exam. YOU WIN.
